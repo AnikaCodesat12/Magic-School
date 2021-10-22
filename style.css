@@ -1,0 +1,25 @@
+body{
+    align-content: center;
+    text-align: center;
+    background-color: bisque;
+}
+
+picture{
+    align-content: center;
+}
+
+announcement{
+    background-color: hotpink;
+
+}
+
+heading{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+welcome{
+    background-color:hotpink;
+    color: black;
+}
